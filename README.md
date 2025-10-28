@@ -14,7 +14,6 @@
 
 - 🌱 I’m currently learning **Mongo DB, ExpressJs, NodeJs,**
 
-- 👨‍💻 All of my projects are available at [https://dishankaswal.github.io/portflio_website/](https://dishankaswal.github.io/portflio_website/)
 
 - 💬 Ask me about **React, Data Structures and Algo.**
 
