@@ -1,38 +1,45 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" 
+       width="400"/>
 
-<h1 align="center">Hi 👋, I'm Dishank Aswal</h1>
-<!-- <img align="right" alt="Codingggggg..." width="400" src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
- -->
- 
- <div align="center">
-  <a rel="nofollow" href="https://github.com/Dishankaswal">
-    <img width="30%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-  </a>
+  <h1>Hi 👋, I'm Dishank Aswal</h1>
+  <h3>Full-Stack Software Engineer · Sydney, Australia</h3>
+  
+  <p>
+    🏆 LeetCode Guardian · Contest Rating 2,160 · Top 1.12% globally 
+    (Ranked 9,373 / 874,349)<br>
+    ⚡ Codeforces Expert · Peak 1725, Current 1625 · 838 problems solved<br>
+    🎓 MCS @ University of Sydney (GPA 80.1) · BTech CS @ UPES (GPA 85.0)
+  </p>
 </div>
 
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishankaswal&label=Profile%20views&color=0e75b6&style=flat" alt="dishankaswal" /> </p> -->
+---
 
-- 🌱 I’m currently learning **Mongo DB, ExpressJs, NodeJs,**
+## 👨‍💻 About Me
 
+- 🏢 Previously **Software Engineer @ Feezy.io** (EdTech, Sydney) and **Intern @ IBM**
+- 🎓 Currently completing **Master of Computer Science** (Software Engineering) at **University of Sydney**
+- 🏫 **Academic Tutor @ USyd** — teaching COMP2017 (Systems Programming)
+- 🏆 **Certificate of Excellence** — top project report in postgraduate unit at USyd (Nov 2025)
+- 💬 Ask me about **React, Node.js, System Design, Algorithms, Competitive Programming**
+- 📫 Reach me at **dishankaswalau@gmail.com**
+- 🌍 Open to **Full-Stack / SWE roles** in Sydney — hybrid or remote considered
 
-- 💬 Ask me about **React, Data Structures and Algo.**
+---
 
-- 📫 How to reach me **Dishankaswalau@gmail.com**
+## 🚀 Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dishank-aswal-5479381b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dishank-aswal-5479381b9/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/dishank.dizzu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dishank.dizzu/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/dishankaswal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dishankaswal/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/ChinaTrigger/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/dishankaswal2002/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/dishankaswal2002/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/dishankaswal2002/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
-</p>
+### 🏟️ [CodeArena](https://github.com/Dishankaswal/CodeArena) — Live: [codearenacontest.netlify.app](https://codearenacontest.netlify.app)
+> Full-stack competitive programming platform inspired by LeetCode & Codeforces
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- 🧑‍💻 Contest creation, management, and real-time participation
+- ⚙️ Multi-language code execution engine (C++, Java, Python, JS, Go, Rust) via Piston API
+- 🤖 AI-powered problem generator using Google Gemini API
+- 🗃️ Real-time database with Supabase (PostgreSQL + Auth)
+- **Stack:** React · Vite · Supabase · PostgreSQL · Gemini API · Piston API · Tailwind CSS
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dishankaswal&show_icons=true&locale=en&layout=compact" alt="dishankaswal" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dishankaswal&show_icons=true&locale=en" alt="dishankaswal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dishankaswal&" alt="dishankaswal" /></p>
+### 💬 [DocChat](https://github.com/Dishankaswal/DocChat) — Live: [my-docchat.netlify.app](https://my-docchat.netlify.app)
+> AI-powered RAG application chat with your PDFs using semantic vector search
