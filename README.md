@@ -23,8 +23,8 @@
   (Systems Programming)
 - 🏆 **Certificate of Excellence** — top project report in 
   postgraduate unit at USyd (Nov 2025)
-- 💬 Ask me about **React, Node.js, System Design, 
-  Algorithms, Competitive Programming**
+- 💬 Ask me about **Full-Stack Development, 
+  Data Structure, Algorithms, or Competitive Programming**
 - 📫 Reach me at **dishankaswalau@gmail.com**
 - 🌍 Open to **Full-Stack / SWE roles** in Sydney — 
   hybrid or remote considered
