@@ -26,8 +26,7 @@
 - 💬 Ask me about **Full-Stack Development, 
   Data Structure, Algorithms, or Competitive Programming**
 - 📫 Reach me at **dishankaswalau@gmail.com**
-- 🌍 Open to **Full-Stack / SWE roles** in Sydney — 
-  hybrid or remote considered
+- 🌍 Open to **Full-Stack / SWE roles** in Australia either hybrid or remote considered
 
 ---
 
