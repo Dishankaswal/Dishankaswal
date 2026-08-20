@@ -7,7 +7,7 @@
     🏆 LeetCode Guardian · Contest Rating 2,160 · Top 1.12% globally 
     (Ranked 9,373 / 874,349)<br>
     ⚡ Codeforces Expert · Peak 1725, Current 1625 · 838 problems solved<br>
-    🎓 MCS @ University of Sydney (GPA 80.1) · BTech CS @ UPES (GPA 85.0)
+    🎓 MCS @ University of Sydney (GPA 79) · BTech CS @ UPES (GPA 85.0)
   </p>
 </div>
 
