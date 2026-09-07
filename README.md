@@ -72,8 +72,8 @@
 
 | Platform | Rating | Level | Problems Solved |
 |---|---|---|---|
-| LeetCode | 2,160 | Guardian (Top 1.12%) | 695 |
-| Codeforces | 1625 | Expert | 838 |
+| LeetCode | 2,160 | Guardian (Top 1.12%) | 695+ |
+| Codeforces | 1625 | Expert | 838+ |
 
 <p align="center">
   <a href="https://leetcode.com/u/DishAnK_22/">
