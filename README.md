@@ -9,6 +9,9 @@
     ⚡ Codeforces Expert · Peak 1725, Current 1625 · 838 problems solved<br>
     🎓 MCS @ University of Sydney (GPA: Distinction) · BTech CS @ UPES (GPA 85.0)
   </p>
+  <a href="https://dishank-aswal-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-dishank--aswal--portfolio.vercel.app-blue?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </div>
 
 ---
@@ -26,6 +29,7 @@
 - 💬 Ask me about **Full-Stack Development, 
   Data Structure, Algorithms, or Competitive Programming**
 - 📫 Reach me at **dishankaswalau@gmail.com**
+- 🌐 **Portfolio:** [dishank-aswal-portfolio.vercel.app](https://dishank-aswal-portfolio.vercel.app/)
 - 🌍 Open to **Full-Stack / SWE roles** in Australia either hybrid or remote considered
 
 ---
@@ -110,6 +114,10 @@
 ## 🤝 Connect
 
 <p align="left">
+  <a href="https://dishank-aswal-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=vercel" height="30"/>
+  </a>
+  &nbsp;
   <a href="https://linkedin.com/in/dishankaswal" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
