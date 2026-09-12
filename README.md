@@ -7,12 +7,7 @@
     🏆 LeetCode Guardian · Contest Rating 2,160 · Top 1.12% globally 
     (Ranked 9,373 / 874,349)<br>
     ⚡ Codeforces Expert · Peak 1725, Current 1625 · 838 problems solved<br>
-    🎓 MCS @ University of Sydney (GPA 80.1) · BTech CS @ UPES (GPA 85.0)
-  </p>
-  <p>
-    <a href="https://dishank-aswal-portfolio.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-dishank--aswal-blue?style=for-the-badge&logo=vercel&logoColor=white" />
-    </a>
+    🎓 MCS @ University of Sydney (GPA: Distinction) · BTech CS @ UPES (GPA 85.0)
   </p>
 </div>
 
@@ -28,12 +23,10 @@
   (Systems Programming)
 - 🏆 **Certificate of Excellence** — top project report in 
   postgraduate unit at USyd (Nov 2025)
-- 💬 Ask me about **React, Node.js, RAG Systems, System Design, 
-  Algorithms, or Competitive Programming**
+- 💬 Ask me about **Full-Stack Development, 
+  Data Structure, Algorithms, or Competitive Programming**
 - 📫 Reach me at **dishankaswalau@gmail.com**
-- 🌍 Open to **Full-Stack / SWE roles** in Australia — 
-  hybrid or remote considered
-- 🌐 **Portfolio:** [dishank-aswal-portfolio.vercel.app](https://dishank-aswal-portfolio.vercel.app/)
+- 🌍 Open to **Full-Stack / SWE roles** in Australia either hybrid or remote considered
 
 ---
 
@@ -79,8 +72,8 @@
 
 | Platform | Rating | Level | Problems Solved |
 |---|---|---|---|
-| LeetCode | 2,160 | Guardian (Top 1.12%) | 695 |
-| Codeforces | 1625 (peak 1725) | Expert | 838 |
+| LeetCode | 2,160 | Guardian (Top 1.12%) | 695+ |
+| Codeforces | 1625 | Expert | 838+ |
 
 <p align="center">
   <a href="https://leetcode.com/u/DishAnK_22/">
@@ -114,22 +107,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dishankaswal&show_icons=true&theme=dark&locale=en" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dishankaswal&show_icons=true&locale=en&layout=compact&theme=dark" width="48%" />
-</p>
-
----
-
 ## 🤝 Connect
 
 <p align="left">
-  <a href="https://dishank-aswal-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=vercel" height="30"/>
-  </a>
-  &nbsp;
   <a href="https://linkedin.com/in/dishankaswal" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
