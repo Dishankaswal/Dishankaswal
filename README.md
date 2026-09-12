@@ -9,6 +9,9 @@
     ⚡ Codeforces Expert · Peak 1725, Current 1625 · 838 problems solved<br>
     🎓 MCS @ University of Sydney (GPA: Distinction) · BTech CS @ UPES (GPA 85.0)
   </p>
+  <a href="https://dishank-aswal-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-dishank--aswal--portfolio.vercel.app-blue?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </div>
 
 ---
